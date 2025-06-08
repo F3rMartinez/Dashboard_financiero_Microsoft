@@ -34,4 +34,4 @@ Dashboard personalizado (versión propia)
 
 Descargar el archivo .pbix o revisarlo en mi linkedin. 
 
-Link: 
+Link: https://www.linkedin.com/posts/fer-martin3z_powerbi-dashboard-microsoft-activity-7337336976519356417-rJZl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEe0SHwB6SPUl9yAWt_3OmG-duSMyULDaY0
